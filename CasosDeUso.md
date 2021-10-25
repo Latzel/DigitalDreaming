@@ -1,4 +1,4 @@
 ## Casos de uso
 
-![](Imagenes/casos de uso.png)
-![](Imagenes/casosdeuso.png)
+![](Imagenes/CasosdeUso/casos de uso.png)
+![](Imagenes/CasosdeUso/casosdeuso.png)
